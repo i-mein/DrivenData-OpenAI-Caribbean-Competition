@@ -51,22 +51,4 @@ In this challenge, your goal is to use provided aerial imagery (GeoTiff) to clas
 10. visualize and assess predictions 
 
 
-### Repo still under development! (Final code will be publised after the competition end)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### LB score:1.3307 - Position: 100th/1425 competitors
