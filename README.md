@@ -6,14 +6,17 @@ Driven Data Competition - AI Caribbean Challenge: Mapping Disaster Risk from Aer
 ### LB score: 1.3307 | LB Position: 100 amongst 1425 competitors 
 
 
-[Follow the link]: https://www.drivendata.org/competitions/58/disaster-response-roof-type/page/142/
+`Note: clean code will be uploaded soon!! ` 
 
+
+[Competition description:]: https://www.drivendata.org/competitions/58/disaster-response-roof-type/page/142/
+
+
+In this challenge, your goal is to use provided aerial imagery (GeoTiff) to classify the roof material of identified buildings in St. Lucia, Guatemala, and Colombia. 
 
 
 ![alt text](https://github.com/i-mein/DrivenData-OpenAI-Caribbean-Competition/blob/master/images/drivendata.png)
 
-
-In this challenge, your goal is to use provided aerial imagery (GeoTiff) to classify the roof material of identified buildings in St. Lucia, Guatemala, and Colombia. 
 
 
 ### Data 
