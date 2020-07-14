@@ -3,6 +3,9 @@
 Driven Data Competition - AI Caribbean Challenge: Mapping Disaster Risk from Aerial Imagery
 
 
+### LB score: 1.3307 | LB Position: 100 amongst 1425 competitors 
+
+
 [Follow the link]: https://www.drivendata.org/competitions/58/disaster-response-roof-type/page/142/
 
 
@@ -51,4 +54,3 @@ In this challenge, your goal is to use provided aerial imagery (GeoTiff) to clas
 10. visualize and assess predictions 
 
 
-### LB score:1.3307 - Position: 100th/1425 competitors
